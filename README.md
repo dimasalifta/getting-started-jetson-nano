@@ -5,5 +5,9 @@
 [STEP 2] (https://yunusmuhammad007.medium.com/4-setup-vnc-server-pada-jetson-nano-35d3b6121234 (NOTE: Hanya Nomor 1 dan 3 ))
 ## Step 3. Uninstall Software yang tidak diperlukan, Ikuti panduan pada link dibawah ini
 [STEP 3] (https://yunusmuhammad007.medium.com/5-jetson-nano-minimal-os-c50fd1a4ffcd)
-## Step 4. Install CUDA Driver di NVIDIA JETSON, Ikuti panduan pada link dibawah ini
+## Step 4. Install CUDA Driver di Jetson Nano, Ikuti panduan pada link dibawah ini
 [STEP 4] (https://dev.to/ajeetraina/install-cuda-on-jetson-nano-2b06 (NOTE: Mulai dari tahap **Verifying the Device**))
+## Step 5. Install TensorFlow di Jetson Nano, Ikuti panduan pada link dibawah ini
+[STEP 5] (https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html)
+## Step 6. Install Driver Razer Kiyo Pro di Jetson Nano, Ikuti panduan pada link dibawah ini
+[STEP 6] (https://github.com/dimasalifta/install-driver-razer-kiyo-pro-jetson-nano)
