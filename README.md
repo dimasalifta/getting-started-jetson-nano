@@ -6,4 +6,4 @@
 ## Step 3. Uninstall Software yang tidak diperlukan, Ikuti panduan pada link dibawah ini
 [STEP 3] (https://yunusmuhammad007.medium.com/5-jetson-nano-minimal-os-c50fd1a4ffcd)
 ## Step 4. Install CUDA Driver di NVIDIA JETSON, Ikuti panduan pada link dibawah ini
-[STEP 4] (https://dev.to/ajeetraina/install-cuda-on-jetson-nano-2b06)
+[STEP 4] (https://dev.to/ajeetraina/install-cuda-on-jetson-nano-2b06 (NOTE: Mulai dari tahap Verifying Device))
