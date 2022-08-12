@@ -40,8 +40,7 @@ sudo mv /var/lib/dpkg/backup/ /var/lib/dpkg/info/
 
 ## Step 4. Install TensorFlow di Jetson Nano
 [STEP 4] (source: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html)
-
-###Before you install TensorFlow for Jetson, ensure you:
+### Before you install TensorFlow for Jetson, ensure you:
 1. Sebelum tahap install, kita perlu check JetPack version pada Jetson Nano yang kita gunakan, jalankan command berikut pada terminal
 ```
 sudo apt-cache show nvidia-jetpack
