@@ -5,8 +5,8 @@
 ## Step 2. Setup VNC Jetson Nano, Ikuti panduan pada link dibawah ini
 [STEP 2] (https://yunusmuhammad007.medium.com/4-setup-vnc-server-pada-jetson-nano-35d3b6121234 (NOTE: Hanya Nomor 1 dan 3 ))
 
-## Step 3. Uninstall Software yang tidak diperlukan, Ikuti panduan pada link dibawah ini
-[STEP 3] (https://yunusmuhammad007.medium.com/5-jetson-nano-minimal-os-c50fd1a4ffcd)
+## Step 3. Uninstall Software yang tidak diperlukan
+[STEP 3] (Source: https://yunusmuhammad007.medium.com/5-jetson-nano-minimal-os-c50fd1a4ffcd)
 ### Uninstall Thunderbird dan LibreOffice dan mengatasi error l4t_bootloader
 1. Uninstall Software
 ```
