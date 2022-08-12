@@ -71,8 +71,13 @@ sudo pip3 install --extra-index-url https://developer.download.nvidia.com/comput
 ## Step 6. Install package yang dibutuhkan game p9 dan m14 (proses membutuhkan waktu yang cukup lama)
 [STEP 6] (Source:)
 ```
-pip3 install nano scipy matplotlib opencv-python opencv-contrib-python scikit-learn imutils keras==2.6  numpy==1.19.4
+sudo apt-get install python3-tk python3-dev libcanberra-gtk-module
+pip3 install nano scipy matplotlib opencv-python opencv-contrib-python scikit-learn imutils keras==2.6 numpy==1.19.4 pyautogui
 
+```
+## Step 7. Cloning repository game-m6 (Spinner Dice)
+```
+git clone https://github.com/dimasalifta/game-m6.git
 ```
 
 
