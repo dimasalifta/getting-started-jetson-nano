@@ -76,6 +76,8 @@ pip3 install nano scipy matplotlib opencv-python opencv-contrib-python scikit-le
 
 ```
 ## Step 7. Cloning repository game-m6 (Spinner Dice)
+masuk ke directory Documents dulu baru cloning
+
 ```
 git clone https://github.com/dimasalifta/game-m6.git
 ```
