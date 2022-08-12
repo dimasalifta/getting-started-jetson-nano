@@ -57,7 +57,7 @@ sudo -H pip3 install -U pip testresources setuptools==49.6.0
 ```
 4. Install depedency python yang dibutuhkan (proses membutuhkan waktu yang cukup lama)
 ```
-sudo -H pip3 install -U --no-deps numpy==1.19.4 future==0.18.2 mock==3.0.5 keras_preprocessing==1.1.2 keras_applications==1.0.8 gast==0.4.0 protobuf pybind11 cython pkgconfig packaging
+sudo -H pip3 install -U --no-deps numpy==1.19.4 future==0.18.2 mock==3.0.5 keras_preprocessing==1.1.2 keras_applications==1.0.8 gast==0.4.0 protobuf pybind11 cython pkgconfig packaging scipy
 sudo -H H5PY_SETUP_REQUIRES=0 pip3 install -U h5py==3.1.0
 ```
 5. Install Tensorflow (proses membutuhkan waktu yang cukup lama)
@@ -72,14 +72,15 @@ sudo pip3 install --extra-index-url https://developer.download.nvidia.com/comput
 [STEP 6] (Source:)
 ```
 sudo apt-get install python3-tk python3-dev libcanberra-gtk-module
-pip3 install nano scipy matplotlib opencv-python opencv-contrib-python scikit-learn imutils keras==2.6 numpy==1.19.4 pyautogui
+pip3 install nano matplotlib opencv-python opencv-contrib-python scikit-learn imutils keras==2.6 numpy==1.19.4 pyautogui
 
 ```
-## Step 7. Cloning repository game-m6 (Spinner Dice)
+## Step 7. Cloning repository game
 masuk ke directory Documents dulu baru cloning
 
 ```
 git clone https://github.com/dimasalifta/game-m6.git
+git clone https://github.com/dimasalifta/game-p9.git
 ```
 
 
