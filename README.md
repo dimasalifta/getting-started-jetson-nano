@@ -14,6 +14,7 @@ sudo apt-get remove --purge thunderbird*
 sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
+sudo apt-get upgrade
 ```
 2. Fixing error l4t_bootloader
 ### Apparently it is related to the information that dpkg saves and it conflicts in the installation
