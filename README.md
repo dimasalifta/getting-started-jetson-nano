@@ -76,6 +76,7 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 ```
 sudo apt-get install python3-tk python3-dev libcanberra-gtk-module
 pip3 install nano matplotlib opencv-python opencv-contrib-python scikit-learn imutils keras==2.6 numpy==1.19.4 pyautogui
+pip3 install --upgrade pandas
 
 ```
 ## Step 7. Cloning repository game
