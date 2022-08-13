@@ -14,6 +14,7 @@ sudo apt-get remove --purge thunderbird*
 sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
 sudo apt-get autoremove
+sudo apt-get update
 sudo apt-get upgrade
 ```
 2. Fixing error l4t_bootloader
