@@ -63,7 +63,7 @@ sudo -H H5PY_SETUP_REQUIRES=0 pip3 install -U h5py==3.1.0
 ```
 5. Install Tensorflow (proses membutuhkan waktu yang cukup lama)
 ```
-sudo pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v46 tensorflow==2.6.0+nv21.11
+sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v45 tensorflow
 ```
 
 ## Step 5. Install Driver Razer Kiyo Pro di Jetson Nano, Ikuti panduan pada link dibawah ini
