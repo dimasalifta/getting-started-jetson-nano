@@ -37,7 +37,7 @@ sudo mv /var/lib/dpkg/info/* /var/lib/dpkg/backup/
 ```
 sudo rm -rf /var/lib/dpkg/info
 sudo mv /var/lib/dpkg/backup/ /var/lib/dpkg/info/
-sudo apt-get upgrade
+sudo apt upgrade
 ```
 ### If this is not done, it will complain in the script and its installation will always fail
 
