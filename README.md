@@ -79,12 +79,6 @@ pip3 install nano matplotlib opencv-python opencv-contrib-python scikit-learn im
 pip3 install --upgrade pandas
 
 ```
-## Step 7. Cloning repository game
-masuk ke directory Documents dulu baru cloning
 
-```
-git clone https://github.com/dimasalifta/game-m6.git
-git clone https://github.com/dimasalifta/game-p9.git
-```
 
 
